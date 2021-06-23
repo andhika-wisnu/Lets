@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375690029244",
+    "firebase_url": "https://lets-b1913.firebaseio.com",
+    "project_id": "lets-b1913",
+    "storage_bucket": "lets-b1913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375690029244:android:69d9de44c87aa6270888b9",
+        "android_client_info": {
+          "package_name": "com.andhika.lets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375690029244-n0d2f3t1ro5hi2qls3khirjevm7lhbt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS461fK0uoKpjXGMWJ35Scdyg9hMy3J1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375690029244-n0d2f3t1ro5hi2qls3khirjevm7lhbt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
